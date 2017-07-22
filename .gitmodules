@@ -7,3 +7,12 @@
 [submodule "libmf"]
 	path = libmf
 	url = https://github.com/cjlin1/libmf.git
+[submodule "facets"]
+	path = facets
+	url = https://github.com/PAIR-code/facets.git
+[submodule "phraug2"]
+	path = phraug2
+	url = https://github.com/JimmyLin192/phraug2.git
+[submodule "phraug"]
+	path = phraug
+	url = https://github.com/JimmyLin192/phraug.git
