@@ -16,3 +16,6 @@
 [submodule "phraug"]
 	path = phraug
 	url = https://github.com/JimmyLin192/phraug.git
+[submodule "incubator-airflow"]
+	path = incubator-airflow
+	url = https://github.com/apache/incubator-airflow.git
